@@ -4,7 +4,7 @@ This repository contains resources and instructions for deploying machine learni
 
 ## Google Slides Presentation
 
-For a visual overview of this project, please refer to the [Google Slides Presentation](https://docs.google.com/presentation/d/152cyBB52_nWxZCOanyL8gcUpWxUrJ4HGGi1gai9OOpQ/edit?usp=sharing).
+For a visual overview of this project, please refer to the [Machine Learning Deployment on Kubernetes](https://docs.google.com/presentation/d/152cyBB52_nWxZCOanyL8gcUpWxUrJ4HGGi1gai9OOpQ/edit?usp=sharing).
 
 ## Overview
 
