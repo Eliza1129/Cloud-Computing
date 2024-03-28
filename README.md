@@ -2,6 +2,10 @@
 
 This repository contains resources and instructions for deploying machine learning models using Kubernetes, focusing on logistic regression algorithm.
 
+## Google Slides Presentation
+
+For a visual overview of this project, please refer to the [Google Slides Presentation](https://docs.google.com/presentation/d/152cyBB52_nWxZCOanyL8gcUpWxUrJ4HGGi1gai9OOpQ/edit?usp=sharing).
+
 ## Overview
 
 Machine learning deployment involves the process of taking a trained machine learning model and making it available for use in production environments. Kubernetes provides a platform for automating deployment, scaling, and managing containerized applications, offering flexibility and efficiency in deploying machine learning models at scale. Logistic Regression is a fundamental machine learning algorithm used for binary classification tasks, widely employed due to its simplicity and interpretability.
